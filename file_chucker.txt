@@ -1,0 +1,19 @@
+
+1. internet
+2. kopi item / susu
+3. dork
+4. script deface kalian
+
+Dork
+     inurl:/cgi-bin/filechucker.cgi
+     intext:Toptown File Upload
+     inurl:/cgi-bin/filechucker.pl
+     intext:File Upload by Encodable
+
+live target;
+            http://upload.bloggingheads.tv/upload
+akses:
+http://upload.bloggingheads.tv/uplod/files/script-kalian.html
+
+TUTORIALNYA:
+1. gak ada tutorial kalian tinggal upload aja tuh

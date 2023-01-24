@@ -1,0 +1,11 @@
+Dork:
+     inurl:/portal/home/kontak_view
+
+Explot:
+       plugins/tinymce/js/tinymce/plugins/filemanager/dialog.php
+
+Akses:
+      Target.go.id/uploads/namafile.html
+
+info tutor:
+           088212171828

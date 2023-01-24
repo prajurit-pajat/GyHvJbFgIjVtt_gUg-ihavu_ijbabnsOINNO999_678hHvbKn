@@ -1,0 +1,9 @@
+1. internet
+2. kopi
+3. dork
+4. script deface kalian
+
+Dork:
+     intitle:"okokok"PHP Uploader
+     intitel:PHP Uploader filetype:PHP
+     intext:"Uploader By"filetype:PHP

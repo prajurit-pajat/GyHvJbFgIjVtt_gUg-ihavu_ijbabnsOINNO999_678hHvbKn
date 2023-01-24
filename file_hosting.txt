@@ -1,0 +1,18 @@
+
+1. internet
+2. 1 gelas kopi
+3. sork
+4. script deface kalian
+
+Dork:
+     intext:"kawaii file hosting"
+     intext:"select or drop file(s)"
+
+TUTORIALNYA:
+1. kalian copy dork, pastekan ke google crome
+2. pilih salah satu web lalu upload sc kalian
+3. jika sudah terupload kalian pencet link tersedia
+
+KETERANGAN:
+WEB YANG VULN BIASANYA OTOMATIS TERDAPAT AKSES
+UPLOADNYA

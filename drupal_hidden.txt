@@ -1,0 +1,16 @@
+bahan:
+      1. internet
+      2. kopi atau susu cewemu
+      3. dork
+      4. script deface kalian
+
+Dork:
+      Allowed file types: png gif jpg txt. site:gov
+      Allowed file types: png gif jpg txt. site:edu
+      Allowed file types: png gif jpg txt. site:com
+      Allowed file types: png gif jpg txt. site:it
+      Allowed file types: png gif jpg txt. site:net
+      Allowed file types: png gif jpg txt. site:fr
+
+info tutor:
+           088212171828

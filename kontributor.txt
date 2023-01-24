@@ -1,0 +1,14 @@
+
+bahan:
+      1. internet
+      2. kopi
+      3. dork
+      4. script deface kalian
+
+Dork : 
+       inurl://kontributor site:go.id
+       inurl://kontributor
+       inurl://kontributor site:sch.id
+
+info tutor:
+           088212171828

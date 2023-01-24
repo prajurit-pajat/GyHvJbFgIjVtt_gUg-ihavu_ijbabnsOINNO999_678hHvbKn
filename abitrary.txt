@@ -1,0 +1,15 @@
+
+bahan:
+      1. internet
+      2. kopi
+      3. email fake
+      4. dork
+      5. script deface
+
+Dork:
+          inurl: ppid site:go.id
+
+Daftar menggunakan email fake
+
+info tutor:
+           088212171828

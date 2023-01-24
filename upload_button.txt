@@ -1,0 +1,20 @@
+
+1. paket internet
+2. secangkir kopi
+3. dork
+4. script deface kalian
+
+Dork:
+     inurl:examples/uploadbutton.html
+
+TUTORIALNYA
+
+1. pastekan dork di browser atau googkle crome
+2. pilih salah satu web yang mau di deface
+3. web vuln otomatis ada tempat uploadnya
+4. tekan upload lalu pilih file script kalian
+5. jika sudah di upload salin link yg ada di
+   dalam kotak upload
+6. lalu kalian tempel di belkang site aslinya
+contoh:
+       https://site.com/tempelkan_disini 
